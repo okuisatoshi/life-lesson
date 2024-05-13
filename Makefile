@@ -7,3 +7,4 @@ zig-install:
 clean:
 	rm -rf *.o life
 .PHONY: zig-install clean
+.SILENT:
